@@ -1,13 +1,13 @@
 # 📌 Face Shape Classification with CNN
 
-Bu proje, yüz şekillerini sınıflandırmak için **sıfırdan tasarlanmış Convolutional Neural Network (CNN)** mimarisi ve **transfer learning tabanlı yaklaşımlar** (ör. EfficientNet) kullanılarak geliştirilmiştir. Amaç, farklı modelleme tekniklerini karşılaştırarak en yüksek doğruluğa ulaşmaktır.
+Bu proje, yüz şekillerini sınıflandırmak için **sıfırdan tasarlanmış Convolutional Neural Network (CNN)** mimarisi ve **transfer learning tabanlı yaklaşımlar** (EfficientNet) kullanılarak geliştirilmiştir. Amaç, farklı modelleme tekniklerini karşılaştırarak en yüksek doğruluğa ulaşmaktır.
 
 ---
 
 ## 🚀 Özellikler
 - TensorFlow/Keras tabanlı model geliştirme  
 - CNN katmanları **manuel olarak inşa edildi**  
-- **Transfer Learning** (EfficientNet gibi önceden eğitilmiş modeller) ile denemeler  
+- **Transfer Learning** (EfficientNet) ile denemeler  
 - **Veri artırma (ImageDataGenerator)** ile çeşitlilik sağlandı  
 - **EarlyStopping** ve **ReduceLROnPlateau** callback’leri ile optimize eğitim süreci  
 - Eğitim sonunda doğruluk ve kayıp metriklerinin görselleştirilmesi  
