@@ -61,7 +61,7 @@ Bu çalışmalar projeyi sadece bir öğrenme denemesi olmaktan çıkarıp, gün
 
 ## 🔗 Linkler
 
-[- Proje notebook linki:](https://www.kaggle.com/code/qusilen/faceshapedetection)
+[- Proje notebook linki](https://www.kaggle.com/code/qusilen/faceshapedetection)
 
-[- Projede kullanılan veri seti:](https://www.kaggle.com/datasets/niten19/face-shape-dataset)
+[- Projede kullanılan veri seti](https://www.kaggle.com/datasets/niten19/face-shape-dataset)
 
